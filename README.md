@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, I'm Gear 👋
 
-<!--
-**Geardevop/Geardevop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate self taught Full Stack developer . I'm enthusiastic about Full Stack, Moblie, Microservice, and I enjoy solving complex problems using technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Graduated from [Your Education]
+
+## My Skills
+
+I have experience in a wide range of technologies and tools, including:
+
+- 💻 Programming Languages: [TypeScrpit, JavaScript, Python, Java]
+- 🛠️ Technologies: [React, Next.js, Spring-boot, Vue.js]
+- 🚀 DevOps & CI/CD: [List of DevOps Tools]
+- 🌐 Web Development: [List of Web Development Skills]
+- 📱 Mobile App Development: [List of Mobile App Development Skills]
+- 📊 Data Analysis & Machine Learning: [List of Data Analysis & ML Tools]
+
+## My Projects
+
+
+## Contact Me
+
+Feel free to reach out to me through:
+
+- 📧 Email: [gearkiskeedev@gmail.com]
